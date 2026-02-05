@@ -4,9 +4,8 @@ from scipy.ndimage import gaussian_filter1d
 import os
 
 def load_contract_data(year, contract_code):
-    # Get the directory of this file (src/), go up one level, then into data/
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    project_dir = os.path.dirname(script_dir)  # Go up from src/ to n_z_spreads/
+    project_dir = os.path.dirname(script_dir)
     data_dir = os.path.join(project_dir, 'data')
     file_path = os.path.join(data_dir, f"{contract_code}{year}.csv")
     df = pd.read_csv(file_path, header=None, names=['date', 'price', 'volume'])
