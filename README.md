@@ -1,6 +1,3 @@
-# Wheat
-
-
 ## Project n°1: Wheat WASDE Supply & Demand
 
 **The Question**: Is the balance sheet actually tightening or is the market just reacting to inventory noise?
