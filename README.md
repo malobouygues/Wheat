@@ -7,9 +7,7 @@
 
 **Objective**: To decode the WASDE (World Agricultural Supply and Demand Estimates) reports, to go beyond static "Ending Stocks" to visualize dynamic Stocks-to-Use ratios, to identify trend throughout the marketing year
 
-```markdown
-![](/images/project1.png)
-```
+![](images/project1.png)
 
 
 ## Project n°2: SRW Wheat July–December Spread Analysis
@@ -18,6 +16,4 @@
 
 **Objective**: To model the cost of carry on CBOT Soft Red Winter wheat during July - December period
 
-```markdown
-![](/images/project2.png)
-```
+![](images/project2.png)
