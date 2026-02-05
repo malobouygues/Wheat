@@ -1,7 +1,7 @@
 # Wheat
 
 
-## Project n°1: Fundamentals & USDA Bias
+## Project n°1: Wheat WASDE Supply & Demand
 
 **The Question**: Is the balance sheet actually tightening or is the market just reacting to inventory noise?
 
@@ -12,7 +12,7 @@
 ```
 
 
-## Project n°2: Calendar Spreads & Carry Seasonality
+## Project n°2: SRW Wheat July–December Spread Analysis
 
 **The Question**: How does the SRW wheat curve typically behave ahead of harvest, and does the current structure deviate from its historical seasonal profile?
 

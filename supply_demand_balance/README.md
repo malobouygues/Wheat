@@ -1,4 +1,4 @@
-# Wheat Fundamentals and WASDE Revision Cycles
+# Wheat WASDE Supply & Demand
 
 This project analyzes the fundamental supply & demand balance of Global and US wheat using historical USDA WASDE data.
 
