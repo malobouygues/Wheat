@@ -36,7 +36,3 @@ build/
 # Environment variables
 .env
 .env.local
-# Images folders
-images/
-**/images/
-
